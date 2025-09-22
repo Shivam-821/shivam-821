@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Shivam Raj
 **A passionate Full Stack Developer || ML Engineer**
 
-- 🔭 **I’m currently working on:** Euphony-verse, a ai based music platform with ai intergation and self made recommendation system.
+- 🔭 **I’m currently working on:** Euphony-verse, an ai based music platform with ai intergation and self made recommendation system.
 - 🌱 **I’m currently learning:** Devops and Computer Vision
 - 📫 **How to reach me:** shivamraj1109.23@gmail.com
 - 😄 **Pronouns:** Shivam
