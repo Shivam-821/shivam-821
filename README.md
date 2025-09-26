@@ -1,5 +1,13 @@
 # 💫 Hi 👋, I'm Shivam Raj
-**A passionate Full Stack Developer || ML Engineer**
+<p padding-align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=00A3C8&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+</p>
+
+
+# 🙋‍♂️ About me
+
+I’m a Full Stack Developer and Machine Learning Engineer:** passionate about building impactful technology that blends web development, AI/ML, and scalable systems. Over the last few years, I’ve gained hands-on experience working on full-stack projects, from microservices-based platforms to AI-powered applications.
+
 
 - 🔭 **I’m currently working on:** Euphony-verse, an ai based music platform with ai intergation and self made recommendation system.
 - 🌱 **I’m currently learning:** Devops and Computer Vision
