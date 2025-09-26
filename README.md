@@ -6,7 +6,7 @@
 
 # 🙋‍♂️ About me
 
-I’m a Full Stack Developer and Machine Learning Engineer:** passionate about building impactful technology that blends web development, AI/ML, and scalable systems. Over the last few years, I’ve gained hands-on experience working on full-stack projects, from microservices-based platforms to AI-powered applications.
+I’m a Full Stack Developer and Machine Learning Engineer, passionate about building impactful technology that blends web development, AI/ML, and scalable systems. Over the last few years, I’ve gained hands-on experience working on full-stack projects, from microservices-based platforms to AI-powered applications.
 
 
 - 🔭 **I’m currently working on:** Euphony-verse, an ai based music platform with ai intergation and self made recommendation system.
