@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Shivam Raj
 <p padding-align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=00A3C8&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=80&color=00A3C8&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 
